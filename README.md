@@ -48,9 +48,8 @@ EXAMENQAH3/
 │       ├── TC004_empty_cart.png
 │       └── TC005_checkout_error.png
 └── entregable/
-    ├── informe_hito3.pdf         # Informe final formal consolidado en PDF
-    ├── informe_hito3.docx        # Documento editable Word con tablas e imágenes
-    └── informe_hito3.md          # Versión Markdown completa del informe
+    ├── examen H3 TQA Mirkof Guzman.pdf      # Informe final formal consolidado en PDF
+    └── evalicion h3 QA Mirkof Guzman.docx   # Documento editable Word con tablas e imágenes
 ```
 
 ---
@@ -73,7 +72,7 @@ EXAMENQAH3/
 2. **Caja Blanca (White Box Testing):** Análisis de la función `validar_compra` en Python. Se identificaron 3 decisiones y 4 condiciones simples. Se calculó el mínimo de 4 casos para cobertura de decisiones y sentencias, demostrando por qué 3 casos eran insuficientes (83.3%) y proponiendo el ajuste necesario (CB4) y el caso para cobertura de condiciones (CB5).
 3. **BDD / Gherkin:** Escenarios formales para Login, Carrito y Checkout empleando `Feature`, `Scenario`, `Given`, `When`, `Then`, `And`, `But`.
 4. **Registro de Defectos:** Documentación siguiendo la plantilla oficial de la materia. Al resultar todos los casos PASS, no se registraron defectos artificiales, adjuntando la plantilla formal de referencia.
-5. **Informe Consolidado:** Archivos formalizados en [`entregable/informe_hito3.pdf`](entregable/informe_hito3.pdf) y [`entregable/informe_hito3.docx`](entregable/informe_hito3.docx).
+5. **Informe Consolidado:** Archivos formalizados en [`entregable/examen H3 TQA Mirkof Guzman.pdf`](entregable/examen%20H3%20TQA%20Mirkof%20Guzman.pdf) y [`entregable/evalicion h3 QA Mirkof Guzman.docx`](entregable/evalicion%20h3%20QA%20Mirkof%20Guzman.docx).
 6. **Gestión de Proyecto en GitHub:** Planificación con GitHub Issues y tablero Kanban.
 
 ---
